@@ -9,7 +9,6 @@ This repository contains **analysis code only**.
 ## Code included in this repository
 
 - **Allele-frequency and diversity analyses**
-  - Allele-frequency spectrum calculation
   - Intrahost diversity metrics (e.g., π, pnps)
 
 ## Reference
